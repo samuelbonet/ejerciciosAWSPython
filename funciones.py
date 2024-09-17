@@ -8,11 +8,13 @@ area= calcularAreaCuadrado(r)
 print(area)'''
 
 
-def calcularAreaCuadrado():
+'''def calcularAreaCuadrado():
     return str("hola") + lado1 * lado1
 
 lado1= int(input("Introduce un lado "))
 
 
 area=calcularAreaCuadrado()
-print(area)
+print(area) '''
+
+    

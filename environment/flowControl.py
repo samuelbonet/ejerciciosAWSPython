@@ -2,11 +2,11 @@
 for i in "Samuel":
     print(i)'''
 
-'''while'''
+'''while
 i = 0
 while i < 6:
   print(i)
-  i += 2
+  i += 2'''
 
 
 '''listas
@@ -23,3 +23,4 @@ alumnos={"Nombre":"Carlos",
          "Apellido":"Dolz",
          "Aprende":"AWS"}
 print(alumnos.get("Nombre"))'''
+
