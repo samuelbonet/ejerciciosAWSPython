@@ -19,8 +19,9 @@ def main():
         print("\n\n Ueee\n")    
 
 def usuario_salir():
-    salir= input("¿Quieres salir? (S/N)").upper() in SPANISH_YES
-    print ("Gracias")
+    salir= input("¿Quieres salir? (S/N)").upper()
+    if salir in SPANISH_YES:
+        print ("Gracias")
                 
 if __name__=="__main__":
     main()
